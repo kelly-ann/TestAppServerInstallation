@@ -1,6 +1,7 @@
 This project's purpose is to test a particular server instance that has been setup.
 
 To setup:
+
 FIRST:
 Window --> Preferences --> Type "jdk" --> Click on "Compiler" and "JRE environment" (respectively) and 
 make sure they are appropriately set.
